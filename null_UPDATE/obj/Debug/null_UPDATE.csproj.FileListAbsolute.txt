@@ -1,0 +1,28 @@
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.exe.config
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.exe
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.pdb
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.csprojResolveAssemblyReference.cache
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.frm_guncelle.resources
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.Properties.Resources.resources
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.csproj.GenerateResource.Cache
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.exe
+c:\users\musta\onedrive\belgeler\visual studio 2015\Projects\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.pdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.exe.config
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.exe
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.pdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.exe
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.pdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\System.Net.Http.dll
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.csprojResolveAssemblyReference.cache
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.frm_guncelle.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.Properties.Resources.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.csproj.GenerateResource.Cache
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.exe.config
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.exe
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.pdb
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.exe
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\bin\Debug\null_UPDATE.pdb
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.csprojResolveAssemblyReference.cache
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.frm_guncelle.resources
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.Properties.Resources.resources
+C:\Users\musta\Dropbox\Null Team Folder\Projeler\Masaüstü\Güncelleme\SQL Yardımcısı\null_UPDATE\null_UPDATE\obj\Debug\null_UPDATE.csproj.GenerateResource.Cache
